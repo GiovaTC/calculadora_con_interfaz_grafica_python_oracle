@@ -150,6 +150,3 @@ oracledb.init_oracle_client(lib_dir="...")
 antes de conectar. Revisa la documentación oficial de oracledb .
 
 Si deseas permitir funciones matemáticas (sin, sqrt, etc.), se puede añadir un mapeo controlado de funciones de math con seguridad .
-
-
-ChatGPT puede cometer errores. Consider
