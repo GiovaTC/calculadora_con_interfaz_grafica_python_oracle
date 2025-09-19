@@ -1,4 +1,7 @@
 # calculadora_con_interfaz_grafica_python_oracle
+
+<img width="203" height="193" alt="image" src="https://github.com/user-attachments/assets/acd0ce8a-579d-497b-a76e-797430d0bb13" />
+
 Calculadora con interfaz gráfica (Tkinter) y persistencia en Oracle .
 
 Este repositorio/ejemplo contiene una aplicación completa en Python que implementa una calculadora con interfaz gráfica usando **Tkinter** y que guarda el historial de calculos en una base de datos **Oracle** mediante la libreria `oracledb` .
